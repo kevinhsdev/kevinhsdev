@@ -30,4 +30,4 @@ me torna um programador melhor.
 ## Contato
 
 - Email: kevinhs07@outlook.com
-- LinkedIn: (em breve)
+- LinkedIn: https://www.linkedin.com/in/kevinhs07/

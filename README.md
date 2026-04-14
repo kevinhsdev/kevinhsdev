@@ -47,6 +47,8 @@ const kevinHenrique = {
 
 ## 🛠️ Tecnologias e ferramentas
 
+<div align="center">
+  
 **Back-end**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -65,13 +67,19 @@ const kevinHenrique = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
+
 ---
 
 ## 📚 Atualmente aprendendo
 
+<div align="center">
+  
 ![Java Avançado](https://img.shields.io/badge/Java_Avançado-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_(em_breve)-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git_&_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 

@@ -1,44 +1,40 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kevin%20Henrique&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Back-end%20Java%20Developer%20%7C%20Eng.%20de%20Software%20%7C%20São%20Paulo%2C%20Brasil%20🇧🇷&descAlignY=55&descSize=18"/>
 
+</div>
 
+<div align="center">
 
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Engenharia+de+Software+🎓;Foco+em+Java+Back-end+☕;Inglês+Avançado+%7C+Intercâmbio+em+Malta+🌍;18+anos+e+apaixonado+por+tecnologia+%E2%9A%A1)](https://git.io/typing-svg)
 
-
-
-
-
-
-
-
-  
-
-
-
+</div>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ```java
 const kevinHenrique = {
-  nome:      "Kevin Henrique da Silva",
-  idade:     18,
+  name:      "Kevin Henrique da Silva",
+  age:     18,
   role:      "Desenvolvedor Back-end Java (em formação)",
   local:     "São Paulo, Brasil 🇧🇷",
 
-  formacao: {
-    atual:     "Engenharia de Software — UMC (3º período)",
-    conclusao: "2028"
+  education: {
+    current:     "Engenharia de Software — UMC (3º período)",
+    conclusion:  "2028"
   },
 
-  intercambio: "EF Education First · Malta, Europa 🌍",
-  idiomas:     ["Português (nativo)", "Inglês (avançado)"],
+  exchangeProgram: "EF Education First · Malta, Europa 🌍",
+  languages:      ["Português (nativo)", "Inglês (avançado)"],
 
   stack: {
     backend:  ["Java", "Python"],
     frontend: ["HTML", "CSS"],
-    banco:    ["MySQL"],
+    databases:    ["MySQL"],
     tools:    ["IntelliJ IDEA", "VS Code", "Git"]
   },
 
@@ -46,7 +42,7 @@ const kevinHenrique = {
   objetivo:   "Primeira vaga como desenvolvedor Jr. em tech 🎯"
 };
 ```
-
+<br clear="right"/>
 ---
 
 ## 🛠️ Tecnologias e ferramentas
@@ -81,31 +77,31 @@ const kevinHenrique = {
 
 ## 📊 Estatísticas GitHub
 
-
-
-
-  
-  
-
-
-
-
-
-
-
-  
-
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinhsdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9"/>
+</div>
 
 
 ---
 
 ## 📬 Contato
-
-[![Email](https://img.shields.io/badge/kevinhs07@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kevinhs07@outlook.com)
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinhs07@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinhs07/)
 
+</div>
+
 ---
+
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling"/>
 
 
 

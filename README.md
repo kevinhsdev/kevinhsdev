@@ -32,10 +32,10 @@ const kevinHenrique = {
   languages:      ["Português (nativo)", "Inglês (avançado)"],
 
   stack: {
-    backend:  ["Java", "Python"],
-    frontend: ["HTML", "CSS"],
-    databases:    ["MySQL"],
-    tools:    ["IntelliJ IDEA", "VS Code", "Git"]
+    backend:      ["Java", "Python", "PHP", "NodeJS"],
+    frontend:     ["HTML", "CSS", "JavaScript", "TypeScript"],
+    databases:    ["MySQL", "AWS"],
+    tools:        ["IntelliJ IDEA", "VS Code", "Git", "GitHub", "Docker"]
   },
 
   actualy: "Estudando Java avançado + construindo portfólio",
@@ -45,45 +45,56 @@ const kevinHenrique = {
 <br clear="right"/>
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
   
-**Back-end**
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### ⚡ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java" />
+</p>
 
-**Front-end**
+### 🗄️ Banco de Dados & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,aws" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Ferramentas**
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🔧 Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,git,github,vscode,docker" />
+</p>
 
 </div>
 
 ---
 
-## 📚 Atualmente aprendendo
+## 🎓 Formação & Trajetória
 
 <div align="center">
-  
-![Java Avançado](https://img.shields.io/badge/Java_Avançado-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_(em_breve)-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Git](https://img.shields.io/badge/Git_&_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+| 🏆 Conquista | 📋 Detalhes | 📅 Status |
+|---|---|---|
+| **Curso de Inglês Avançado** | Formação completa em Lingua Inglêsa | ✅ Concluído |
+| **Engenharia de Software** | Graduação superior em andamento | 📚 Em curso |
+| **Evolução Profissional** | Experiência prática desde os 17 anos | 🚀 Contínuo |
 
 </div>
 
 ---
 
 ## 📊 Estatísticas GitHub
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinhsdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinhsdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinhsdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9"/>
@@ -97,6 +108,8 @@ const kevinHenrique = {
   
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinhs07@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinhs07/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)] Em Breve...
+
 
 </div>
 

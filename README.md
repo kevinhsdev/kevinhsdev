@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kevin%20Henrique&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Back-end%20Java%20Developer%20%7C%20Eng.%20de%20Software%20%7C%20São%20Paulo%2C%20Brasil%20🇧🇷&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10,30&height=200&section=header&text=Kevin%20Henrique&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Back-end%20Java%20Developer%20%7C%20Eng.%20de%20Software%20%7C%20São%20Paulo%2C%20Brasil%20🇧🇷&descAlignY=55&descSize=18"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Engenharia+de+Software+🎓;Foco+em+Java+Back-end+☕;Inglês+Avançado+%7C+Intercâmbio+em+Malta+🌍;18+anos+e+apaixonado+por+tecnologia+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Engenharia+de+Software+🎓;Foco+em+Java+Back-end+☕;Inglês+Avançado+%7C+Intercâmbio+em+Malta+🌍;18+anos+e+apaixonado+por+tecnologia+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10,30&height=200&section=header&text=Kevin%20Henrique&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Back-end%20Java%20Developer%20%7C%20Eng.%20de%20Software%20%7C%20São%20Paulo%2C%20Brasil%20🇧🇷&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kevin%20Henrique&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Back-end%20Java%20Developer%20%7C%20Eng.%20de%20Software%20%7C%20São%20Paulo%2C%20Brasil%20🇧🇷&descAlignY=55&descSize=18"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 ```java
 const kevinHenrique = {
   name:      "Kevin Henrique da Silva",
-  age:     18,
+  age:      18,
   role:      "Desenvolvedor Back-end Java (em formação)",
   local:     "São Paulo, Brasil 🇧🇷",
 
@@ -38,8 +38,8 @@ const kevinHenrique = {
     tools:    ["IntelliJ IDEA", "VS Code", "Git"]
   },
 
-  atualmente: "Estudando Java avançado na Udemy + construindo portfólio",
-  objetivo:   "Primeira vaga como desenvolvedor Jr. em tech 🎯"
+  actualy: "Estudando Java avançado + construindo portfólio",
+  goal:   "Primeira vaga como desenvolvedor Jr. em tech 🎯"
 };
 ```
 <br clear="right"/>

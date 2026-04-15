@@ -79,7 +79,7 @@ const kevinHenrique = {
 
 | 🏆 Conquista | 📋 Detalhes | 📅 Status |
 |---|---|---|
-| **Curso de Inglês Avançado** | Formação completa em Lingua Inglêsa | ✅ Concluído |
+| **Inglês Avançado** | Formação completa em Lingua Estrangeira + Intercambio | ✅ Concluído |
 | **Engenharia de Software** | Graduação superior em andamento | 📚 Em curso |
 | **Evolução Profissional** | Experiência prática desde os 17 anos | 🚀 Contínuo |
 

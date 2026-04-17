@@ -43,6 +43,7 @@ const kevinHenrique = {
 };
 ```
 <br clear="right"/>
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas

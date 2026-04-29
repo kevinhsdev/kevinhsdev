@@ -16,13 +16,13 @@
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
 
-```java
+```typescript
 const kevinHenrique = {
   name:      "Kevin Henrique da Silva",
   age:      18,
   role:      "Desenvolvedor Back-end Java (em formação)",
   local:     "São Paulo, Brasil 🇧🇷",
-
+}
   education: {
     current:     "Engenharia de Software — UMC (3º período)",
     conclusion:  "2028"

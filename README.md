@@ -32,7 +32,7 @@ const kevinHenrique = {
   languages:      ["Português (nativo)", "Inglês (avançado)"],
 
   stack: {
-    backend:      ["Java", "Python", "PHP", "NodeJS"],
+    backend:      ["Java", "Python", "NodeJS"],
     frontend:     ["HTML", "CSS", "JavaScript", "TypeScript"],
     databases:    ["MySQL", "AWS"],
     tools:        ["IntelliJ IDEA", "VS Code", "Git", "GitHub", "Docker"]
@@ -57,7 +57,7 @@ const kevinHenrique = {
 
 ### ⚡ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java" />
 </p>
 
 ### 🗄️ Banco de Dados & Cloud

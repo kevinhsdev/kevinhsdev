@@ -33,7 +33,7 @@ const kevinHenrique = {
 
   stack: {
     backend:      ["Java", "Python", "NodeJS"],
-    frontend:     ["HTML", "CSS", "JavaScript", "TypeScript"],
+    frontend:     ["HTML", "CSS", "JavaScript", "React"],
     databases:    ["MySQL", "AWS"],
     tools:        ["IntelliJ IDEA", "VS Code", "Git", "GitHub", "Docker"]
   },
@@ -52,7 +52,7 @@ const kevinHenrique = {
   
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
 </p>
 
 ### ⚡ Backend

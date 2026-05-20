@@ -24,7 +24,7 @@ const kevinHenrique = {
   local:     "São Paulo, Brasil 🇧🇷",
 }
   education: {
-    current:     "Engenharia de Software — UMC (3º período)",
+    current:     "Engenharia de Software — UMC",
     conclusion:  "2028"
   },
 
@@ -38,7 +38,7 @@ const kevinHenrique = {
     tools:        ["IntelliJ IDEA", "VS Code", "Git", "GitHub", "Docker"]
   },
 
-  actualy: "Estudando Java avançado + construindo portfólio",
+  actualy: "Estudando Java Avançado + construindo portfólio",
   goal:   "Primeira vaga como desenvolvedor Jr. em tech 🎯"
 };
 ```
@@ -109,7 +109,7 @@ const kevinHenrique = {
   
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinhs07@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinhs07/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kevinhsdev.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-133482?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kevinhsdev.github.io/portfolio/)
 
 
 </div>

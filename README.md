@@ -92,9 +92,10 @@ const kevinHenrique = {
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinhsdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=ff6b6b&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinhsdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
-
+ ![Kevin's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=kevinhsdev&show_icons=true&theme=transparent)
+ 
+ ![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=kevinhsdev&layout=compact&theme=transparent)
+ 
 </div>
 
 <div align="center">

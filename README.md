@@ -1,52 +1,52 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kevin%20Henrique&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Back-end%20Java%20Developer%20%7C%20Eng.%20de%20Software%20%7C%20São%20Paulo%2C%20Brasil%20🇧🇷&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kevin%20Henrique&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Back-end%20Java%20Developer%20%7C%20Software%20Engineering%20%7C%20São%20Paulo%2C%20Brazil%20🇧🇷&descAlignY=55&descSize=18"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=03FF00&background=000000&center=true&vCenter=true&random=false&width=600&lines=Estudante+de+Engenharia+de+Software+🎓_;Foco+em+Java+Back-end+👾_;Inglês+Avançado+%2B+Intercâmbio+em+Malta+🌍_;19+anos+e+apaixonado+por+tecnologia+💻_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=1000&color=03FF00&background=000000&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student+🎓_;Focused+on+Java+Back-end+👾_;Advanced+English+%2B+Exchange+Program+in+Malta+🌍_;19+years+old+and+passionate+about+technology+💻_)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 💻 Sobre mim
+## 💻 About me
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
 
 ```typescript
 const kevinHenrique = {
-  name:      "Kevin Henrique da Silva",
-  age:      18,
-  role:      "Desenvolvedor Back-end Java (em formação)",
-  local:     "São Paulo, Brasil 🇧🇷",
+  name: "Kevin Henrique da Silva",
+  age: 18,
+  role: "Back-end Java Developer (in training)",
+  local: "São Paulo, Brazil 🇧🇷",
 }
   education: {
-    current:     "Engenharia de Software — UMC",
-    conclusion:  "2028"
+    current: "Software Engineering — UMC",
+    conclusion: "2028"
   },
 
-  exchangeProgram: "EF Education First · Malta, Europa 🌍",
-  languages:      ["Português (nativo)", "Inglês (avançado)"],
+  exchangeProgram: "EF Education First · Malta, Europe 🌍",
+  languages: ["Portuguese (native)", "English (advanced)"],
 
   stack: {
-    backend:      ["Java", "Python", "NodeJS"],
-    frontend:     ["HTML", "CSS", "JavaScript", "React"],
-    databases:    ["MySQL", "AWS"],
-    tools:        ["IntelliJ IDEA", "VS Code", "Git", "GitHub", "Docker"]
+    backend: ["Java", "Python", "NodeJS"],
+    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    databases: ["MySQL", "AWS"],
+    tools: ["IntelliJ IDEA", "VS Code", "Git", "GitHub", "Docker"]
   },
 
-  actualy: "Estudando Java Avançado + construindo portfólio",
-  goal:   "Primeira vaga como desenvolvedor Jr. em tech 🎯"
+  currently: "Studying Advanced Java + building portfolio",
+  goal: "First position as a Jr. developer in tech 🎯"
 };
 ```
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="center">
   
@@ -60,12 +60,12 @@ const kevinHenrique = {
   <img src="https://skillicons.dev/icons?i=nodejs,python,java" />
 </p>
 
-### 🗄️ Banco de Dados & Cloud
+### 🗄️ Database & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,aws" />
 </p>
 
-### 🔧 Ferramentas
+### 🔧 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=idea,git,github,vscode,docker" />
 </p>
@@ -74,21 +74,21 @@ const kevinHenrique = {
 
 ---
 
-## 🎓 Formação & Trajetória
+## 🎓 Education & Journey
 
 <div align="center">
 
-| 🏆 Conquista | 📋 Detalhes | 📅 Status |
+| 🏆 Achievement | 📋 Details | 📅 Status |
 |---|---|---|
-| **Inglês Avançado** | Formação completa em Lingua Estrangeira + Intercambio | ✅ Concluído |
-| **Engenharia de Software** | Graduação superior em andamento | 📚 Em curso |
-| **Evolução Profissional** | Experiência prática desde os 17 anos | 🚀 Contínuo |
+| **Advanced English** | Full foreign language training + Exchange program | ✅ Completed |
+| **Software Engineering** | Undergraduate degree | 📚 In progress |
+| **Professional Growth** | Hands-on experience since age 17 | 🚀 Ongoing |
 
 </div>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -104,7 +104,7 @@ const kevinHenrique = {
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinhs07@outlook.com)
@@ -124,8 +124,6 @@ const kevinHenrique = {
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Code!&fontSize=40&fontColor=fff&animation=twinkling"/>
-
-
 
 
   

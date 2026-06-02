@@ -91,14 +91,22 @@ const kevinHenrique = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
+  
  ![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=kevinhsdev&layout=compact&theme=transparent)
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinhsdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9"/>
+ 
 </div>
 
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinhsdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9"/>
+  
+</div>
+
+<div align="center">
+  
 ![Kevin's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=kevinhsdev&show_icons=true&theme=transparent)
+
+</div>
 
 ---
 

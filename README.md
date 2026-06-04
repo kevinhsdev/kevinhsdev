@@ -19,7 +19,7 @@
 ```typescript
 const kevinhsdev = {
   name: "Kevin Henrique da Silva",
-  age: 19,
+  age: 18,
   role: "Back-end Java Developer (in training)",
   local: "São Paulo, Brazil 🇧🇷",
 }

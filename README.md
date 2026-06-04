@@ -88,7 +88,7 @@ const kevinHenrique = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
 <div align="center">
   

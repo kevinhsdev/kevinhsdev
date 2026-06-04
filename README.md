@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
 
 ```typescript
-const kevinHenrique = {
+const kevinhsdev = {
   name: "Kevin Henrique da Silva",
   age: 18,
   role: "Back-end Java Developer (in training)",

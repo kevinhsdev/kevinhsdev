@@ -52,7 +52,7 @@ const kevinhsdev = {
   
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart" />
 </p>
 
 ### ⚡ Backend
@@ -67,7 +67,7 @@ const kevinhsdev = {
 
 ### 🔧 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=idea,github,git,vscode,docker,figma,postman" />
 </p>
 
 </div>

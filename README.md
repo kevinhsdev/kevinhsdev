@@ -67,7 +67,7 @@ const kevinhsdev = {
 
 ### 🔧 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,git,vscode,docker,figma,postman,discord" />
+  <img src="https://skillicons.dev/icons?i=idea,git,vscode,docker,figma,powershell,postman,discord" />
 </p>
 
 ### 💻 OS & Environment

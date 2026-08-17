@@ -93,28 +93,6 @@ const kevinhsdev = {
 
 ---
 
-## 📊 My GitHub Stats
-
-<div align="center">
-  
- ![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=kevinhsdev&layout=compact&theme=transparent)
- 
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinhsdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9"/>
-  
-</div>
-
-<div align="center">
-  
-![Kevin's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=kevinhsdev&show_icons=true&theme=transparent)
-
-</div>
-
----
-
 ## 📬 Contact
 <div align="center">
   
@@ -125,16 +103,6 @@ const kevinhsdev = {
 
 </div>
 
----
-
-
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Code!&fontSize=40&fontColor=fff&animation=twinkling"/>
-
-
-  

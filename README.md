@@ -52,12 +52,17 @@ const kevinhsdev = {
   
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### ⚡ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,maven,nodejs" />
+</p>
+
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
 ### 🗄️ Database & Cloud

@@ -57,7 +57,7 @@ const kevinhsdev = {
 
 ### ⚡ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,maven,spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,java,maven,nodejs" />
 </p>
 
 ### 🗄️ Database & Cloud
@@ -65,9 +65,9 @@ const kevinhsdev = {
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,git,vscode,docker,figma,powershell,postman,discord" />
+  <img src="https://skillicons.dev/icons?i=idea,git,vscode,docker,spring,figma,postman" />
 </p>
 
 ### 💻 OS & Environment

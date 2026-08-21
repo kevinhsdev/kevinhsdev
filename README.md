@@ -52,12 +52,12 @@ const kevinhsdev = {
   
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### ⚡ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,maven,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ### 📱 Mobile
@@ -72,7 +72,7 @@ const kevinhsdev = {
 
 ### 🔧 Tools & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=idea,git,vscode,docker,spring,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,spring,maven,postman,docker,git" />
 </p>
 
 ### 💻 OS & Environment

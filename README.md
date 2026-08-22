@@ -35,11 +35,11 @@ const kevinhsdev = {
     backend: ["Java", "Python"],
     mobile: ["Dart", "Flutter"],
     frontend: ["HTML", "CSS", "JavaScript"],
-    databases: ["MySQL", "AWS"],
-    tools: ["IntelliJ IDEA", "Git", "GitHub", "Docker", "Postman"]
+    database&cloud: ["MySQL", "AWS"],
+    tools: ["IntelliJ", "VScode", "Git", "GitHub", "Docker", "Postman"]
   },
 
-  currently: "Studying Advanced Java + building portfolio",
+  currently: "Studying Advanced Java + building career",
   goal: "First position as a Jr. developer in tech 🎯"
 };
 ```

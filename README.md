@@ -32,10 +32,11 @@ const kevinhsdev = {
   languages: ["Portuguese (native)", "English (advanced)"],
 
   stack: {
-    backend: ["Java", "Python", "NodeJS"],
+    backend: ["Java", "Python"],
+    mobile: ["dart", "flutter"],
     frontend: ["HTML", "CSS", "JavaScript", "React"],
     databases: ["MySQL", "AWS"],
-    tools: ["IntelliJ IDEA", "VS Code", "Git", "GitHub", "Docker"]
+    tools: ["IntelliJ IDEA", "VS Code", "Git", "GitHub", "Docker", "Postman"]
   },
 
   currently: "Studying Advanced Java + building portfolio",

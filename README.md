@@ -34,7 +34,7 @@ const kevinhsdev = {
   stack: {
     backend: ["Java", "Python"],
     mobile: ["Dart", "Flutter"],
-    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    frontend: ["HTML", "CSS", "JavaScript"],
     databases: ["MySQL", "AWS"],
     tools: ["IntelliJ IDEA", "Git", "GitHub", "Docker", "Postman"]
   },

@@ -33,10 +33,10 @@ const kevinhsdev = {
 
   stack: {
     backend: ["Java", "Python"],
-    mobile: ["dart", "flutter"],
+    mobile: ["Dart", "Flutter"],
     frontend: ["HTML", "CSS", "JavaScript", "React"],
     databases: ["MySQL", "AWS"],
-    tools: ["IntelliJ IDEA", "VS Code", "Git", "GitHub", "Docker", "Postman"]
+    tools: ["IntelliJ IDEA", "Git", "GitHub", "Docker", "Postman"]
   },
 
   currently: "Studying Advanced Java + building portfolio",

@@ -36,7 +36,7 @@ const kevinhsdev = {
     mobile: ["Dart", "Flutter"],
     frontend: ["HTML", "CSS", "JavaScript"],
     database&cloud: ["MySQL", "AWS"],
-    tools: ["IntelliJ", "VScode", "Git", "Spring", "GitHub", "Docker", "Postman"]
+    tools: ["IntelliJ", "VScode", "Git", "Spring", "Docker", "Postman"]
   },
 
   currently: "Studying Advanced Java + building career",

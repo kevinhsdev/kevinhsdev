@@ -68,7 +68,7 @@ const kevinhsdev = {
 
 ### 🗄️ Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws" />
 </p>
 
 ### 🔧 Tools & Frameworks

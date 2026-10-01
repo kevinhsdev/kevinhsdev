@@ -104,7 +104,7 @@ const kevinhsdev = {
   
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinhs07@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinhs07/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-133482?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kevinhsdev.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-133482?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kevinhs.dev)
 
 
 </div>
